@@ -50,7 +50,7 @@
                 </tr>
                 <tr>
                     <td></td>
-                    <td><button type="button" class="btn btn-danger btn-sm">ออกจากระบบ</button></td>
+                    <td><button type="button" class="btn btn-danger btn-sm">ลงชื่อออก</button></td>
                 </tr>
             </tbody>
         </table>
@@ -61,10 +61,10 @@
         <table class="table">
             <tbody>
                 <tr>
-                    <td><a href="./index.php?page=show_prefix">จัดการคำนำหน้าชื่อ</a></td>
+                    <td><a href="./index.php?page=list_prefix">จัดการคำนำหน้าชื่อ</a></td>
                 </tr>
                 <tr>
-                    <td><a href="./index.php?page=index">จัดการข้อมูลสมาชิก</a></td>
+                    <td><a href="./index.php?page=list_user">จัดการข้อมูลสมาชิก</a></td>
                 </tr>
                 <tr>
                     <td><a href="./index.php?page=index">จัดการสปาหน้า</a></td>
